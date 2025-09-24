@@ -1,0 +1,6 @@
+available_text_models:
+  - gemini-1.5-flash
+info:
+  gemini-1.5-flash:
+    name: "Gemini 1.5 Flash"
+    description: "Fast and efficient model for quick responses"
